@@ -1,6 +1,6 @@
 <p align="center">
         <a href="">
-            <img src="https://telegra.ph/file/62f565db9ccd6f029dce6.jpg" alt="supremus_md">
+            <img src="https://telegra.ph/file/c70df7168f37663e7a3bd.jpg" alt="supremus_md">
         </a>
     </p>
     <hr>
