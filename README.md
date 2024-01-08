@@ -23,8 +23,6 @@
     <strong><hr></strong>
 
 ## obtenire supremus_md
-ol>
-    <li>https://github.com/adakota1/supremus_md/Fork</li>
-</ol>
+1.veiller cliquer sur **[Fork](https://github.com/adakota1/supremus_md/fork)**
 
 🎉salut je m'appelle surpremus MD un bot🤖 WhatsApp avec plus fonctionnalités développer pas la team supremus tech 😼
