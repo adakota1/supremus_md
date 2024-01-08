@@ -1,5 +1,4 @@
-
-    <p align="center">
+<p align="center">
         <a href="">
             <img src="https://telegra.ph/file/62f565db9ccd6f029dce6.jpg" alt="supremus_md">
         </a>
