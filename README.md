@@ -21,9 +21,10 @@
     </p>
     <p align="center"><img src="https://profile-counter.glitch.me/{adakota1}/count.svg" alt="adakota1 :: Visitor's Count" /></p>
     <strong><hr></strong>
-## obtenire SUPREMUS_MD
-<ol>
-    <li> (https://github.com/adakota1/fork) </li>
+
+## obtenire supremus_md
+ol>
+    <li>https://github.com/adakota1/supremus_md/Fork</li>
 </ol>
 
 🎉salut je m'appelle surpremus MD un bot🤖 WhatsApp avec plus fonctionnalités développer pas la team supremus tech 😼
