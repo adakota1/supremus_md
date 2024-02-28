@@ -336,7 +336,7 @@
                     
                         let cmd = await getCmdById(id);
                     
-                        const cd = evt.cm.find((𝐒𝐔𝐏𝐑𝐄𝐌𝐔𝐒) => 𝐒𝐔𝐏𝐑𝐄𝐌𝐔𝐒.nomCom === (cmd));
+                        const cd = evt.cm.find((𝐒𝐔𝐏𝐑𝐄𝐌𝐔𝐒) => supremus.nomCom === (cmd));
                         if (cd) {
                             try {
                                 reagir(origineMessage, zk, ms, cd.reaction);
@@ -450,9 +450,9 @@
                                         };
                                         var txt = "lien détecté, \n";
                                        // txt += message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.;
-                                        const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+                                        const gifLink = "https://raw.githubusercontent.com/adakota1/supremus_md/main/media/remover.gif";
                                         var sticker = new Sticker(gifLink, {
-                                            pack: 'Zoou-Md',
+                                            pack: '𝐒𝐔𝐏𝐑𝐄𝐌𝐔𝐒-ₘD࿐❤️✰•',
                                             author: conf.NOM_OWNER,
                                             type: StickerTypes.FULL,
                                             categories: ['🤩', '🎉'],
@@ -551,9 +551,9 @@
                 };
                 var txt = "bot détecté, \n";
                // txt += message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.;
-                const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+                const gifLink = "https://raw.githubusercontent.com/adakota1/supremus_md/main/media/remover.gif";
                 var sticker = new Sticker(gifLink, {
-                    pack: 'Zoou-Md',
+                    pack: '𝐒𝐔𝐏𝐑𝐄𝐌𝐔𝐒-ₘD࿐❤️✰•',
                     author: conf.NOM_OWNER,
                     type: StickerTypes.FULL,
                     categories: ['🤩', '🎉'],
@@ -628,7 +628,7 @@
                 if (verifCom) {
 
                     //await await zk.readMessages(ms.key);
-                    const cd = evt.cm.find((zokou) => zokou.nomCom === (com));
+                    const cd = evt.cm.find((𝐒𝐔𝐏𝐑𝐄𝐌𝐔𝐒) => supremus.nomCom === (com));
                     if (cd) {
 
                         if (conf.MODE != 'oui' && !superUser) {
